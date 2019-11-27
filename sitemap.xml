@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zzkw.github.io/movies/index.html</loc>
+    
+    <lastmod>2019-11-27T20:41:19.860Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zzkw.github.io/2019/11/16/%E5%86%85%E5%AD%98%E5%8F%96%E8%AF%81volatility%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2019-11-27T20:27:36.964Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>http://zzkw.github.io/2019/09/25/%E5%AE%89%E8%A3%85kali%EF%BC%8C%E7%89%A9%E7%90%86%E6%9C%BA%E6%9C%AC%E6%9C%BAU%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98%E5%AE%89%E8%A3%85kali%E5%8F%8C%E7%B3%BB%E7%BB%9F%E8%8B%B1%E6%96%87%E7%89%88/</loc>
     
     <lastmod>2019-09-24T22:14:13.804Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zzkw.github.io/movies/index.html</loc>
-    
-    <lastmod>2019-09-24T21:14:36.264Z</lastmod>
     
   </url>
   
